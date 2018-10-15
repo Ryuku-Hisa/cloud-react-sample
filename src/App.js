@@ -14,7 +14,11 @@ class App extends Component {
           <p>
             My name is Ryuku Hisasue. 
             Nice to meet you(*´Д｀)
-           </p>
+            1234567890
+          </p>
+          <p>
+            楽ちいかよぉ(*´Д｀)
+         </p>
           
         </header>
       </div>
